@@ -1,5 +1,6 @@
 # Third Portfolio 
    This is my third portfolio following project 2. This showcases the two group projects that we have done as well as two solo projects that I enjoyed working on. A more professional portfolio is planned in the future following project 3. 
+![snapshot](https://user-images.githubusercontent.com/89880190/140847980-3fc260a9-054d-4a25-a5ab-589f97a12dd1.png)
 
  ## Details about this project
     Third portfolio. Contains Project 1 (Kitschy), Project 2 (Handy Man), Weather Dashboard, and Password Generator.
