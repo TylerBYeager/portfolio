@@ -71,9 +71,3 @@ img:hover:active {
     height: 125px;
     margin: 10px;
 }
-
-.container-1 p,
-.container-2 p, 
-.container-3 p {
-    flex-wrap: flex;
-}
